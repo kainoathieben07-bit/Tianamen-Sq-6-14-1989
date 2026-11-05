@@ -6,7 +6,6 @@ This lab takes the entered values for trip count and gas costs to print the aver
 3. View calculated output
 
 ## Important code
- Scanner sc = new Scanner(System.in);
         BankAccount Bank1 = new BankAccount();
         System.out.println("Declare starting balance:");
         Bank1.balance = sc.nextDouble();
