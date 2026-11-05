@@ -15,10 +15,10 @@ This lab takes the entered values for trip count and gas costs to print the aver
 - This code prompts the inputs that are used in a while loop later
 
 ## Example Output
-How many trips did you make? 3
-Enter gas cost for trip 1: 42.50
-Enter gas cost for trip 2: 37.80
-Enter gas cost for trip 3: 45.20
+- How many trips did you make? 3
+- Enter gas cost for trip 1: 42.50
+- Enter gas cost for trip 2: 37.80
+- Enter gas cost for trip 3: 45.20
 
 --- Gas Expense Summary ---
 Trip 1: $42.5
