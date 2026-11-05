@@ -20,3 +20,5 @@ Average per trip: $41.83
 
 ## Author
 Paul Kainoa Thieben
+## Editor/Collaborator
+Stefan Drenth
