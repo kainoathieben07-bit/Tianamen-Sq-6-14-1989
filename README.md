@@ -21,11 +21,11 @@ This lab takes the entered values for trip count and gas costs to print the aver
 - Enter gas cost for trip 3: 45.20
 
 --- Gas Expense Summary ---
-Trip 1: $42.5
-Trip 2: $37.8
-Trip 3: $45.2
-Total spent on gas: $125.5
-Average per trip: $41.83
+- Trip 1: $42.5
+- Trip 2: $37.8
+- Trip 3: $45.2
+- Total spent on gas: $125.5
+- Average per trip: $41.83
 
 ## Author
 Paul Kainoa Thieben
