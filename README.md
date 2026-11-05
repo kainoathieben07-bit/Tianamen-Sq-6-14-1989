@@ -5,6 +5,16 @@ This lab takes the entered values for trip count and gas costs to print the aver
 2. Enter values when prompted
 3. View calculated output
 
+## Important code
+ Scanner sc = new Scanner(System.in);
+        BankAccount Bank1 = new BankAccount();
+        System.out.println("Declare starting balance:");
+        Bank1.balance = sc.nextDouble();
+
+        System.out.println("Enter withdrawal amount (0 to exit):");
+        double with= sc.nextDouble();
+- This code prompts the inputs that are used in a while loop later
+
 ## Example Output
 How many trips did you make? 3
 Enter gas cost for trip 1: 42.50
